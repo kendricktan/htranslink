@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings   #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
-module Main where
+module Backend where
 
 import qualified Data.ByteString.Lazy               as LBS
 import           Data.Function
